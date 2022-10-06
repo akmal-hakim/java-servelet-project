@@ -5,11 +5,12 @@ This is a node.js chat application powered by SockJS and Express that provides t
 This is a Java group project made for the course in my university. The system is an online clothing shop with two users which are Administrator and Customer.
 
 ---
-## Buy me a coffee
-
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
-
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+## Requirement
+<!--
+Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)-->
+Ide: Eclipse 
+Database : Xampp 
+Tomcat 9.0.39, JRE 1.8.0_291, mysql-connect-java-5.1.49
 
 ---
 
