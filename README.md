@@ -8,8 +8,10 @@ This is a Java group project made for the course in my university. The system is
 ## Requirement
 <!--
 Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)-->
-Ide: Eclipse 
+Ide: Eclipse
+
 Database : Xampp 
+
 Tomcat 9.0.39, JRE 1.8.0_291, mysql-connect-java-5.1.49
 
 ---
