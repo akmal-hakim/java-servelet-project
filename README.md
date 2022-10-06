@@ -82,7 +82,7 @@ In the System variables just follow as in picture
 </table>
 
 ## Servelet api.jar
-After all the environment had been set up. You may encounters this error
+After all the environment had been set up. You may encounters this error when running the program
 
 <table align="center">
 <tr>
@@ -91,9 +91,14 @@ After all the environment had been set up. You may encounters this error
 </tr>
 </table>
 
+To solve it, go to properties and edit the servelet-api.jar
 
-
-
+<table align="center">
+<tr>
+  <td><img src="/Images/Solution1.PNG" alt="Solution1.PNG" title="Solution1.PNG"></td>
+  <td><img src="/Images/Solution1Related.PNG" alt="Solution1Related.PNG" title="Solution1Related.PNG"></td>
+</tr>
+</table>
 
 
 
