@@ -54,8 +54,16 @@ In the user variables environment. Create a new variables name CLASSPATH and fol
 In the System variables just follow as in picture
 
 ### CATALINE_HOME
+<table align="center">
+<tr>
+  <td><img src="/Images/3CatalineHome.png" alt="3CatalineHome.png" title="3CatalineHome.png"></td>
+  <td><img src="/Images/4CatalineHome.png" alt="4CatalineHome.png" title="4CatalineHome.png"></td>
+</tr>
+</table>
+<!--
 <img src="/Images/3CatalineHome.png" alt="3CatalineHome.png" title="3CatalineHome.png">| <img src="/Images/4CatalineHome.png" alt="4CatalineHome.png" title="4CatalineHome.png">
 ---|---
+-->
 
 ### JAVA_HOME
 <img src="/Images/5JavaHome.png" alt="5JavaHome.png" title="5JavaHome.png">| <img src="/Images/6JavaHome.png" alt="6JavaHome.png" title="6JavaHome.png">
