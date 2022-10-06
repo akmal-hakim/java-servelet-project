@@ -43,7 +43,8 @@ To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.ra
 <td><img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="500"></td>
 </table>
 
-## In the user variables environment. Create a new variables name CLASSPATH and follow just like in picture
+## User variables environment
+In the user variables environment. Create a new variables name CLASSPATH and follow just like in picture
 
 <table align="center">
 <td><img src="/Images/2ClassPath.png" alt="2ClassPath.png" title="2ClassPath.png" width="500"></td>
