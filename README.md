@@ -53,7 +53,7 @@ In the user variables environment. Create a new variables name CLASSPATH and fol
 ## System variables
 In the System variables just follow as in picture
 
-### CATALINE_HOME
+<h5>CATALINE_HOME</h5>
 <table align="center">
 <tr>
   <td><img src="/Images/3CatalineHome.png" alt="3CatalineHome.png" title="3CatalineHome.png"></td>
