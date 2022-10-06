@@ -65,7 +65,7 @@ In the System variables just follow as in picture
 ---|---
 -->
 
-### JAVA_HOME
+<h4>JAVA_HOME</h4>
 <table align="center">
 <tr>
   <td><img src="/Images/5JavaHome.png" alt="5JavaHome.png" title="5JavaHome.png"></td>
@@ -73,12 +73,34 @@ In the System variables just follow as in picture
 </tr>
 </table>
 
+<h4>CLASSPATH</h4>
+<table align="center">
+<tr>
+  <td><img src="/Images/7ClassPath.png" alt="7ClassPath.png" title="7ClassPath.png"></td>
+  <td><img src="/Images/8ClassPath.png" alt="8ClassPath.png" title="8ClassPath.png"></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 <img src="/Images/5JavaHome.png" alt="5JavaHome.png" title="5JavaHome.png">| <img src="/Images/6JavaHome.png" alt="6JavaHome.png" title="6JavaHome.png">
 ---|---
 -->
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
