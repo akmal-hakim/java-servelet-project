@@ -100,7 +100,11 @@ To solve it, go to properties and edit the servelet-api.jar
 </tr>
 </table>
 
-
+By now you should be able to run the system. This is a group work project which all the credits belong to the respective coder.
+- Amirul Hakim
+- Akmal Hakim
+- Hanif
+- Firdaus
 
 
 
