@@ -38,6 +38,8 @@ To get a local copy up and running follow these simple example steps.
 ### Setup user environment
 
 To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.rar. Next you need to open the environment settings and add this environment.
+
+<img src="/Images/add product.PNG" alt="Employee data" title="Employee Data title">
 ---|
 
 <!--
