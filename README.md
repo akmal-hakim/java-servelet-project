@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.rar. Next you need to open the environment settings and add this environment.
 
 <table align="center">
-<td><img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="500"></td>
+<td><img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="400"></td>
 </table>
 
 ## User variables environment
@@ -53,10 +53,12 @@ In the user variables environment. Create a new variables name CLASSPATH and fol
 ## System variables
 In the System variables just follow as in picture
 
-<img src="/Images/add product.PNG" alt="Employee data" title="Employee Data title">| <img src="/Images/admin login.PNG" alt="Employee data" title="Employee Data title">
+### CATALINE_HOME
+<img src="/Images/3CatalineHome.png" alt="3CatalineHome.png" title="3CatalineHome.png">| <img src="/Images/4CatalineHome.png" alt="4CatalineHome.png" title="4CatalineHome.png">
 ---|---
 
-<img src="/Images/add product.PNG" alt="Employee data" title="Employee Data title">| <img src="/Images/admin login.PNG" alt="Employee data" title="Employee Data title">
+### JAVA_HOME
+<img src="/Images/5JavaHome.png" alt="5JavaHome.png" title="5JavaHome.png">| <img src="/Images/6JavaHome.png" alt="6JavaHome.png" title="6JavaHome.png">
 ---|---
 
 <!-- MARKDOWN LINKS & IMAGES -->
