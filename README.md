@@ -43,7 +43,7 @@ To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.ra
 <img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="500">|
 ---|
 
-<table>
+<table align="center">
 <td> asdas</td>
 </table>
 
