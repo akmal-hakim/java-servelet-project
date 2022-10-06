@@ -43,15 +43,9 @@ To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.ra
 <img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="500">|
 ---|
 
-
-<!--
-This is an example of how to list things you need to use the software and how to install them.
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
--->
+<table>
+<td> asdas</td>
+</table>
 
 
 admin login.PNG
