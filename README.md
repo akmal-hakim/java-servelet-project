@@ -47,8 +47,14 @@ To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.ra
 In the user variables environment. Create a new variables name CLASSPATH and follow just like in picture
 
 <table align="center">
-<td><img src="/Images/2ClassPath.png" alt="2ClassPath.png" title="2ClassPath.png" width="500"></td>
+<td><img src="/Images/2ClassPath.png" alt="2ClassPath.png" title="2ClassPath.png" width="400"></td>
 </table>
+
+## System variables
+In the System variables just follow as in picture
+
+<img src="/Images/add product.PNG" alt="Employee data" title="Employee Data title">| <img src="/Images/admin login.PNG" alt="Employee data" title="Employee Data title">
+---|---
 
 <img src="/Images/add product.PNG" alt="Employee data" title="Employee Data title">| <img src="/Images/admin login.PNG" alt="Employee data" title="Employee Data title">
 ---|---
