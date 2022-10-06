@@ -81,8 +81,15 @@ In the System variables just follow as in picture
 </tr>
 </table>
 
+## Servelet api.jar
+After all the environment had been set up. You may encounters this error
 
-
+<table align="center">
+<tr>
+  <td><img src="/Images/PROBLEM1.PNG" alt="PROBLEM1.PNG" title="PROBLEM1.PNG"></td>
+  <td><img src="/Images/PROBLEM1RELATED.PNG" alt="PROBLEM1RELATED.PNG" title="PROBLEM1RELATED.PNG"></td>
+</tr>
+</table>
 
 
 
