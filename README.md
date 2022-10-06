@@ -40,9 +40,10 @@ To get a local copy up and running follow these simple example steps.
 To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.rar. Next you need to open the environment settings and add this environment.
 
 <div align="center">
-<img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="500">|
+<img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="500"></div>|
 ---|
-</div>
+
+
 <!--
 This is an example of how to list things you need to use the software and how to install them.
 
