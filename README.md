@@ -2,7 +2,7 @@ Java Mavern Project
 ============
 <!--
 This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.-->
-This is a Java group project made for the course in my university. The system is an online clothing shop with two users which are Administrator and Customer.
+This is a Java group project made for the JAVA course in my university. The system is an online clothing shop with two main users which are Administrator and Customer.
 
 ---
 ## Requirement
@@ -61,12 +61,12 @@ Here are some of the features that is implemented in the system.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+<!-- This is an example of how you may give instructions on setting up your project locally. -->
 To get a local copy up and running follow these simple example steps.
 
 ### Setup user environment
 
-To start first thing first is the unarchive apache-tomcat-9.0.39.rar and java.rar. Next you need to open the environment settings and add this environment.
+To start, first thing first is to unarchive apache-tomcat-9.0.39.rar and java.rar. Next you need to open the environment settings and add this environment.
 
 <table align="center">
 <td><img src="/Images/1System Variables.png" alt="1System Variables.png" title="1System Variables.png" width="400"></td>
